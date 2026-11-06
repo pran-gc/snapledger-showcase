@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-12 -12 784 590" width="784" height="590" role="img" aria-label="Receipts, statements and payment alerts enter the app on your phone, where on-device OCR reads them, you confirm them and they are saved to a local database that works offline. Budgets and answers are worked out on the device. A sync service keeps your devices in step with encrypted records, and a backend keeps AI keys off the phone and sends documents to Gemini for structured data.">
+<style>
+text { font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #17161a; }
+.n rect { fill: #fdfcf9; stroke: #e3dfd6; }
+.t { font-size: 15px; font-weight: 600; }
+.s { font-size: 12.5px; fill: #5d5a63; }
+.l, .wl { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 11px; fill: #5d5a63; }
+.core { fill: #f8eef0; stroke: #cd98ac; }
+.st rect { fill: #fdfcf9; stroke: #cd98ac; }
+.st .t { fill: #a3155f; font-size: 14px; }
+.st .s { font-size: 11.5px; }
+.w { fill: none; stroke: #5d5a63; stroke-width: 1.25; }
+.p, .ah { fill: #5d5a63; }
+</style>
+<defs><marker id="ah-w" viewBox="0 0 8 8" refX="7.5" refY="4" markerWidth="8" markerHeight="8" markerUnits="userSpaceOnUse" orient="auto-start-reverse"><path class="ah" d="M0 0L8 4L0 8z"/></marker></defs>
+<g class="n"><rect x="36" y="2" width="344" height="84" rx="14"/><text class="l" x="52" y="24">Input</text><text class="t" x="52" y="46">Receipts and statements</text><text class="s" x="52" y="64">Camera, gallery and PDF</text></g>
+<g class="n"><rect x="416" y="2" width="344" height="84" rx="14"/><text class="l" x="432" y="24">Input</text><text class="t" x="432" y="46">Payment alerts</text><text class="s" x="432" y="64">Only the apps and senders you choose</text></g>
+<rect class="core" x="36" y="132" width="724" height="124" rx="18"/>
+<g class="st"><rect x="57" y="148" width="122" height="66" rx="11"/><text class="t" x="69" y="174">Read</text><text class="s" x="69" y="194">On-device OCR</text></g>
+<g class="st"><rect x="197" y="148" width="122" height="66" rx="11"/><text class="t" x="209" y="174">Check</text><text class="s" x="209" y="194">You confirm</text></g>
+<g class="st"><rect x="337" y="148" width="122" height="66" rx="11"/><text class="t" x="349" y="174">Save</text><text class="s" x="349" y="194">Local database</text></g>
+<g class="st"><rect x="477" y="148" width="122" height="66" rx="11"/><text class="t" x="489" y="174">Analyse</text><text class="s" x="489" y="194">Budgets, bills</text></g>
+<g class="st"><rect x="617" y="148" width="122" height="66" rx="11"/><text class="t" x="629" y="174">Ask</text><text class="s" x="629" y="194">Charts, answers</text></g>
+<text class="l" x="57" y="240">On your phone</text><text class="t" x="160" y="240">Works offline, every figure worked out on the device</text>
+<g class="n"><rect x="36" y="316" width="344" height="94" rx="14"/><text class="l" x="52" y="338">Sync</text><text class="t" x="52" y="360">Sync service</text><text class="s" x="52" y="378">Encrypted before it syncs</text><text class="s" x="52" y="394">Access rules keep records private</text></g>
+<g class="n"><rect x="416" y="316" width="344" height="94" rx="14"/><text class="l" x="432" y="338">Backend</text><text class="t" x="432" y="360">FastAPI</text><text class="s" x="432" y="378">Keeps AI keys off the phone</text><text class="s" x="432" y="394">Checks allowances, refunds failures</text></g>
+<g class="n"><rect x="36" y="470" width="344" height="94" rx="14"/><text class="l" x="52" y="492">Devices</text><text class="t" x="52" y="514">Your other devices</text><text class="s" x="52" y="532">Push and pull changes,</text><text class="s" x="52" y="548">including deletions</text></g>
+<g class="n"><rect x="416" y="470" width="344" height="94" rx="14"/><text class="l" x="432" y="492">AI</text><text class="t" x="432" y="514">Gemini</text><text class="s" x="432" y="532">Turns documents into structured data</text><text class="s" x="432" y="548">Answers with one query tool</text></g>
+<path class="w" d="M208 86V132" marker-end="url(#ah-w)"/><circle class="p" cx="208" cy="86" r="3"/>
+<path class="w" d="M588 86V132" marker-end="url(#ah-w)"/><circle class="p" cx="588" cy="86" r="3"/>
+<path class="w" d="M179 181H197" marker-end="url(#ah-w)"/><circle class="p" cx="179" cy="181" r="3"/>
+<path class="w" d="M319 181H337" marker-end="url(#ah-w)"/><circle class="p" cx="319" cy="181" r="3"/>
+<path class="w" d="M459 181H477" marker-end="url(#ah-w)"/><circle class="p" cx="459" cy="181" r="3"/>
+<path class="w" d="M599 181H617" marker-end="url(#ah-w)"/><circle class="p" cx="599" cy="181" r="3"/>
+<path class="w" d="M208 260V312" marker-start="url(#ah-w)" marker-end="url(#ah-w)"/><text class="wl" x="218" y="292">Sync</text>
+<path class="w" d="M588 260V312" marker-start="url(#ah-w)" marker-end="url(#ah-w)"/><text class="wl" x="598" y="292">Encrypted</text>
+<path class="w" d="M208 414V466" marker-start="url(#ah-w)" marker-end="url(#ah-w)"/>
+<path class="w" d="M588 414V466" marker-start="url(#ah-w)" marker-end="url(#ah-w)"/>
+</svg>
